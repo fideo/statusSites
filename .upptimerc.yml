@@ -5,14 +5,19 @@ repo: statusSites # The name of this repository
 sites:
   - name: FedericoMazzei
     url: https://www.federicomazzei.com.ar
+    icon: https://www.federicomazzei.com.ar/favicon.png
   - name: AdolfoOrtizCubas
     url: https://www.adolfoortizcubasfabricademuebles.com.ar
+    icon: https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png
   - name: MetalurgicaMiele
     url: https://www.metalurgicamiele.com.ar
+    icon: https://www.metalurgicamiele.com.ar/favicon.ico
   - name: Distribuidora RN
     url: https://www.distribuidorarn.com.ar
+    icon: https://www.distribuidorarn.com.ar/wp-content/uploads/2022/01/cropped-cropped-cropped-LOGO_BW-32x32.png
   - name: Argenchemical SRL
     url: https://www.argenchemical.com.ar
+    icon: https://www.argenchemical.com.ar/favicon.ico
 
 assignees:
   - fideo
