@@ -34,7 +34,7 @@ status-website:
   introMessage: Esto puede configurarse usando [GitHub repository](https://github.com/upptime/upptime). No se necesita server, solo GitHub Actions, Issues y Pages.
   navbar:
     - title: Status Sitios Fideo
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
