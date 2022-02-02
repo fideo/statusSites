@@ -58,18 +58,20 @@
     "url": "https://www.distribuidorarn.com.ar",
     "icon": "https://www.distribuidorarn.com.ar/wp-content/uploads/2022/01/cropped-cropped-cropped-LOGO_BW-32x32.png",
     "slug": "distribuidora-rn",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6109,
-    "timeDay": 6109,
-    "timeWeek": 6109,
-    "timeMonth": 6109,
-    "timeYear": 6109,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 5143,
+    "timeDay": 5143,
+    "timeWeek": 5143,
+    "timeMonth": 5143,
+    "timeYear": 5143,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Argenchemical SRL",
