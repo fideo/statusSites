@@ -25,18 +25,17 @@
     "icon": "https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png",
     "slug": "adolfo-ortiz-cubas",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 4956,
     "timeDay": 2516,
     "timeWeek": 4283,
     "timeMonth": 4956,
     "timeYear": 4956,
     "dailyMinutesDown": {
-      "2022-02-15": 6,
       "2022-02-11": 17,
       "2022-02-02": 89
     }
@@ -86,9 +85,9 @@
     "url": "https://www.argenchemical.com.ar",
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,6 +96,8 @@
     "timeWeek": 1586,
     "timeMonth": 1676,
     "timeYear": 1676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   }
 ]
