@@ -28,11 +28,11 @@
     "icon": "https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png",
     "slug": "adolfo-ortiz-cubas",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 4997,
     "timeDay": 5081,
     "timeWeek": 4878,
@@ -84,11 +84,11 @@
     "icon": "https://www.distribuidorarn.com.ar/wp-content/uploads/2022/01/cropped-cropped-cropped-LOGO_BW-32x32.png",
     "slug": "distribuidora-rn",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 4641,
     "timeDay": 4450,
     "timeWeek": 4603,
@@ -107,9 +107,9 @@
     "url": "https://www.argenchemical.com.ar",
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,6 +118,8 @@
     "timeWeek": 2007,
     "timeMonth": 1674,
     "timeYear": 1680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 0
+    }
   }
 ]
