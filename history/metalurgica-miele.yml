@@ -1,7 +1,7 @@
 url: https://www.metalurgicamiele.com.ar
-status: up
-code: 200
-responseTime: 1608
-lastUpdated: 2022-08-31T23:08:35.061Z
+status: down
+code: 500
+responseTime: 363
+lastUpdated: 2022-09-01T03:39:22.081Z
 startTime: Tue Feb 01 2022 15:55:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
