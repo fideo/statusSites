@@ -45,7 +45,7 @@
     "time": 5090,
     "timeDay": 4256,
     "timeWeek": 8589,
-    "timeMonth": 5201,
+    "timeMonth": 5343,
     "timeYear": 5090,
     "dailyMinutesDown": {
       "2022-12-28": 68,
@@ -114,7 +114,7 @@
     "time": 1489,
     "timeDay": 1165,
     "timeWeek": 1383,
-    "timeMonth": 1601,
+    "timeMonth": 1639,
     "timeYear": 1489,
     "dailyMinutesDown": {
       "2023-01-02": 32,
@@ -198,9 +198,9 @@
     "url": "https://www.argenchemical.com.ar",
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -210,6 +210,7 @@
     "timeMonth": 1570,
     "timeYear": 1649,
     "dailyMinutesDown": {
+      "2023-01-02": 0,
       "2022-10-08": 43,
       "2022-08-04": 17,
       "2022-05-15": 19,
