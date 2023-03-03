@@ -1,7 +1,7 @@
 url: https://www.federicomazzei.com.ar
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2023-03-03T12:51:06.367Z
+status: down
+code: 500
+responseTime: 4394
+lastUpdated: 2023-03-03T16:32:06.125Z
 startTime: Tue Feb 01 2022 15:55:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
