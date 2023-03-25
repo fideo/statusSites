@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.75%",
-    "time": 1314,
-    "timeDay": 760,
-    "timeWeek": 816,
-    "timeMonth": 1000,
-    "timeYear": 1436,
+    "time": 1313,
+    "timeDay": 1102,
+    "timeWeek": 866,
+    "timeMonth": 990,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2023-03-03": 650,
       "2023-02-01": 17,
@@ -29,8 +29,7 @@
       "2022-08-11": 25,
       "2022-07-22": 24,
       "2022-06-11": 96,
-      "2022-05-06": 117,
-      "2022-03-25": 36
+      "2022-05-06": 117
     }
   },
   {
@@ -42,13 +41,13 @@
     "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.43%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "98.19%",
-    "time": 5102,
-    "timeDay": 3448,
-    "timeWeek": 4717,
-    "timeMonth": 8731,
-    "timeYear": 5113,
+    "time": 5101,
+    "timeDay": 4212,
+    "timeWeek": 4946,
+    "timeMonth": 8918,
+    "timeYear": 5112,
     "dailyMinutesDown": {
       "2023-03-14": 210,
       "2023-03-13": 16,
@@ -114,8 +113,7 @@
       "2022-05-03": 52,
       "2022-04-19": 23,
       "2022-04-11": 111,
-      "2022-04-03": 289,
-      "2022-03-25": 36
+      "2022-04-03": 289
     }
   },
   {
@@ -124,16 +122,16 @@
     "icon": "https://www.metalurgicamiele.com.ar/favicon.ico",
     "slug": "metalurgica-miele",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.81%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "98.47%",
-    "time": 1487,
-    "timeDay": 1223,
-    "timeWeek": 1757,
-    "timeMonth": 2344,
-    "timeYear": 1445,
+    "time": 1490,
+    "timeDay": 2707,
+    "timeWeek": 1881,
+    "timeMonth": 2407,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2023-03-05": 237,
       "2023-02-25": 507,
@@ -185,8 +183,7 @@
       "2022-04-19": 23,
       "2022-04-18": 25,
       "2022-04-11": 111,
-      "2022-04-03": 289,
-      "2022-03-25": 36
+      "2022-04-03": 289
     }
   },
   {
@@ -195,16 +192,16 @@
     "icon": "https://www.distribuidorarn.com.ar/wp-content/uploads/2022/01/cropped-cropped-cropped-LOGO_BW-32x32.png",
     "slug": "distribuidora-rn",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.81%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "98.59%",
-    "time": 3706,
-    "timeDay": 3372,
-    "timeWeek": 3000,
-    "timeMonth": 3438,
-    "timeYear": 3540,
+    "time": 3703,
+    "timeDay": 2259,
+    "timeWeek": 2909,
+    "timeMonth": 3548,
+    "timeYear": 3534,
     "dailyMinutesDown": {
       "2023-03-05": 237,
       "2023-02-25": 507,
@@ -236,8 +233,7 @@
       "2022-06-11": 151,
       "2022-05-06": 40,
       "2022-04-11": 111,
-      "2022-04-03": 289,
-      "2022-03-25": 36
+      "2022-04-03": 289
     }
   },
   {
@@ -251,11 +247,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
-    "time": 1688,
-    "timeDay": 1893,
-    "timeWeek": 2231,
-    "timeMonth": 2008,
-    "timeYear": 1687,
+    "time": 1690,
+    "timeDay": 2892,
+    "timeWeek": 2356,
+    "timeMonth": 2046,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2023-03-07": 56,
       "2023-03-04": 15,
