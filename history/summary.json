@@ -5,16 +5,16 @@
     "icon": "https://www.federicomazzei.com.ar/favicon.png",
     "slug": "federico-mazzei",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.11%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.67%",
     "time": 1266,
-    "timeDay": 1099,
-    "timeWeek": 849,
-    "timeMonth": 921,
-    "timeYear": 1433,
+    "timeDay": 917,
+    "timeWeek": 867,
+    "timeMonth": 926,
+    "timeYear": 1434,
     "dailyMinutesDown": {
       "2023-06-13": 392,
       "2023-04-28": 17,
@@ -45,11 +45,11 @@
     "uptimeWeek": "96.11%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "98.19%",
-    "time": 5068,
-    "timeDay": 5531,
-    "timeWeek": 4560,
-    "timeMonth": 5021,
-    "timeYear": 5032,
+    "time": 5070,
+    "timeDay": 5562,
+    "timeWeek": 4871,
+    "timeMonth": 5097,
+    "timeYear": 5037,
     "dailyMinutesDown": {
       "2023-06-13": 392,
       "2023-04-28": 17,
@@ -111,8 +111,7 @@
       "2022-07-22": 23,
       "2022-07-20": 17,
       "2022-07-08": 15,
-      "2022-06-23": 46,
-      "2022-06-20": 32
+      "2022-06-23": 46
     }
   },
   {
@@ -127,9 +126,9 @@
     "uptimeMonth": "99.11%",
     "uptimeYear": "98.48%",
     "time": 1632,
-    "timeDay": 2807,
-    "timeWeek": 2229,
-    "timeMonth": 2329,
+    "timeDay": 1562,
+    "timeWeek": 2286,
+    "timeMonth": 2309,
     "timeYear": 1639,
     "dailyMinutesDown": {
       "2023-06-13": 392,
@@ -176,8 +175,7 @@
       "2022-08-10": 15,
       "2022-08-09": 17,
       "2022-07-22": 23,
-      "2022-07-20": 17,
-      "2022-06-20": 31
+      "2022-07-20": 17
     }
   },
   {
@@ -192,10 +190,10 @@
     "uptimeMonth": "99.11%",
     "uptimeYear": "98.57%",
     "time": 3607,
-    "timeDay": 6605,
-    "timeWeek": 3233,
-    "timeMonth": 3294,
-    "timeYear": 3355,
+    "timeDay": 3649,
+    "timeWeek": 3470,
+    "timeMonth": 3316,
+    "timeYear": 3356,
     "dailyMinutesDown": {
       "2023-06-13": 391,
       "2023-04-28": 16,
@@ -241,11 +239,11 @@
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.70%",
-    "time": 1798,
-    "timeDay": 2562,
-    "timeWeek": 2217,
-    "timeMonth": 2300,
-    "timeYear": 1851,
+    "time": 1799,
+    "timeDay": 2434,
+    "timeWeek": 2257,
+    "timeMonth": 2318,
+    "timeYear": 1852,
     "dailyMinutesDown": {
       "2023-06-19": 133,
       "2023-05-22": 30,
