@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1309,
-    "timeDay": 951,
-    "timeWeek": 919,
-    "timeMonth": 1002,
-    "timeYear": 1441,
+    "time": 1311,
+    "timeDay": 1344,
+    "timeWeek": 994,
+    "timeMonth": 1015,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2023-06-13": 392,
       "2023-04-28": 17,
@@ -29,8 +29,7 @@
       "2022-12-12": 19,
       "2022-12-11": 41,
       "2022-11-27": 46,
-      "2022-11-26": 3,
-      "2022-08-11": 25
+      "2022-11-26": 3
     }
   },
   {
@@ -44,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.20%",
-    "time": 5124,
-    "timeDay": 4917,
-    "timeWeek": 6740,
-    "timeMonth": 6542,
-    "timeYear": 5236,
+    "time": 5127,
+    "timeDay": 6828,
+    "timeWeek": 6904,
+    "timeMonth": 6594,
+    "timeYear": 5242,
     "dailyMinutesDown": {
       "2023-07-21": 75,
       "2023-06-13": 392,
@@ -105,8 +104,7 @@
       "2022-09-02": 16,
       "2022-09-01": 100,
       "2022-08-30": 49,
-      "2022-08-23": 23,
-      "2022-08-11": 39
+      "2022-08-23": 23
     }
   },
   {
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 1731,
-    "timeDay": 3230,
-    "timeWeek": 2664,
-    "timeMonth": 2962,
-    "timeYear": 1809,
+    "time": 1730,
+    "timeDay": 1364,
+    "timeWeek": 2457,
+    "timeMonth": 2931,
+    "timeYear": 1807,
     "dailyMinutesDown": {
       "2023-06-13": 392,
       "2023-04-28": 16,
@@ -165,8 +163,7 @@
       "2022-09-22": 24,
       "2022-09-20": 32,
       "2022-09-01": 80,
-      "2022-08-23": 23,
-      "2022-08-11": 39
+      "2022-08-23": 23
     }
   },
   {
@@ -180,11 +177,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.58%",
-    "time": 3576,
-    "timeDay": 5152,
-    "timeWeek": 4510,
-    "timeMonth": 4449,
-    "timeYear": 3413,
+    "time": 3577,
+    "timeDay": 5275,
+    "timeWeek": 4776,
+    "timeMonth": 4506,
+    "timeYear": 3418,
     "dailyMinutesDown": {
       "2023-07-29": 23,
       "2023-06-13": 391,
@@ -214,8 +211,7 @@
       "2022-11-20": 16,
       "2022-10-28": 44,
       "2022-10-16": 100,
-      "2022-09-30": 378,
-      "2022-08-11": 38
+      "2022-09-30": 378
     }
   },
   {
@@ -225,17 +221,16 @@
     "slug": "argenchemical-srl",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.66%",
-    "time": 1829,
-    "timeDay": 2248,
-    "timeWeek": 2152,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.67%",
+    "time": 1830,
+    "timeDay": 2123,
+    "timeWeek": 2161,
     "timeMonth": 2156,
-    "timeYear": 1930,
+    "timeYear": 1931,
     "dailyMinutesDown": {
-      "2023-08-10": 4,
       "2023-06-29": 203,
       "2023-06-19": 133,
       "2023-05-22": 30,
