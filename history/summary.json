@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1330,
-    "timeDay": 936,
-    "timeWeek": 1064,
-    "timeMonth": 885,
+    "timeDay": 869,
+    "timeWeek": 1058,
+    "timeMonth": 888,
     "timeYear": 1435,
     "dailyMinutesDown": {
       "2023-06-13": 392,
@@ -38,16 +38,16 @@
     "icon": "https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png",
     "slug": "adolfo-ortiz-cubas",
     "status": "up",
-    "uptime": "95.31%",
+    "uptime": "95.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "65.39%",
+    "uptimeMonth": "68.67%",
     "uptimeYear": "92.53%",
-    "time": 5085,
-    "timeDay": 8752,
-    "timeWeek": 8649,
-    "timeMonth": 5047,
-    "timeYear": 5224,
+    "time": 5089,
+    "timeDay": 5287,
+    "timeWeek": 9540,
+    "timeMonth": 5181,
+    "timeYear": 5237,
     "dailyMinutesDown": {
       "2023-09-26": 60,
       "2023-09-08": 759,
@@ -119,8 +119,7 @@
       "2022-10-13": 21,
       "2022-10-08": 15,
       "2022-10-06": 31,
-      "2022-10-04": 55,
-      "2022-09-30": 378
+      "2022-10-04": 55
     }
   },
   {
@@ -134,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
-    "time": 1929,
-    "timeDay": 3909,
-    "timeWeek": 6142,
-    "timeMonth": 3735,
-    "timeYear": 2089,
+    "time": 1936,
+    "timeDay": 5894,
+    "timeWeek": 6230,
+    "timeMonth": 3795,
+    "timeYear": 2101,
     "dailyMinutesDown": {
       "2023-08-18": 15,
       "2023-06-13": 392,
@@ -174,8 +173,7 @@
       "2022-10-28": 44,
       "2022-10-16": 100,
       "2022-10-06": 31,
-      "2022-10-04": 55,
-      "2022-09-30": 378
+      "2022-10-04": 55
     }
   },
   {
@@ -189,11 +187,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
-    "time": 3575,
-    "timeDay": 6786,
-    "timeWeek": 6749,
-    "timeMonth": 4893,
-    "timeYear": 3599,
+    "time": 3574,
+    "timeDay": 3944,
+    "timeWeek": 6017,
+    "timeMonth": 4862,
+    "timeYear": 3600,
     "dailyMinutesDown": {
       "2023-07-29": 23,
       "2023-06-13": 391,
@@ -222,8 +220,7 @@
       "2022-11-26": 2,
       "2022-11-20": 16,
       "2022-10-28": 44,
-      "2022-10-16": 100,
-      "2022-09-30": 378
+      "2022-10-16": 100
     }
   },
   {
@@ -237,11 +234,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.64%",
-    "time": 1936,
-    "timeDay": 2646,
-    "timeWeek": 2537,
-    "timeMonth": 2681,
-    "timeYear": 2052,
+    "time": 1937,
+    "timeDay": 2153,
+    "timeWeek": 2551,
+    "timeMonth": 2675,
+    "timeYear": 2053,
     "dailyMinutesDown": {
       "2023-08-31": 38,
       "2023-08-24": 17,
