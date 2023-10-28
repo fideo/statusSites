@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1328,
-    "timeDay": 1059,
-    "timeWeek": 1173,
-    "timeMonth": 1024,
-    "timeYear": 1455,
+    "time": 1329,
+    "timeDay": 974,
+    "timeWeek": 1172,
+    "timeMonth": 1029,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2023-06-13": 392,
       "2023-04-28": 17,
@@ -38,16 +38,16 @@
     "icon": "https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png",
     "slug": "adolfo-ortiz-cubas",
     "status": "up",
-    "uptime": "95.52%",
+    "uptime": "95.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "92.64%",
-    "time": 5175,
-    "timeDay": 6128,
-    "timeWeek": 5612,
-    "timeMonth": 6124,
-    "timeYear": 5259,
+    "time": 5180,
+    "timeDay": 6518,
+    "timeWeek": 5924,
+    "timeMonth": 6114,
+    "timeYear": 5265,
     "dailyMinutesDown": {
       "2023-09-30": 22,
       "2023-09-26": 60,
@@ -113,8 +113,7 @@
       "2022-11-03": 0,
       "2022-11-02": 136,
       "2022-11-01": 3,
-      "2022-10-29": 37,
-      "2022-10-28": 44
+      "2022-10-29": 37
     }
   },
   {
@@ -129,10 +128,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.65%",
     "time": 2076,
-    "timeDay": 3567,
-    "timeWeek": 4092,
-    "timeMonth": 4713,
-    "timeYear": 2306,
+    "timeDay": 2118,
+    "timeWeek": 3913,
+    "timeMonth": 4576,
+    "timeYear": 2307,
     "dailyMinutesDown": {
       "2023-08-18": 15,
       "2023-06-13": 392,
@@ -164,8 +163,7 @@
       "2022-11-04": 108,
       "2022-11-03": 0,
       "2022-11-02": 57,
-      "2022-11-01": 3,
-      "2022-10-28": 44
+      "2022-11-01": 3
     }
   },
   {
@@ -179,11 +177,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
-    "time": 3621,
-    "timeDay": 5078,
-    "timeWeek": 5354,
-    "timeMonth": 4621,
-    "timeYear": 3676,
+    "time": 3627,
+    "timeDay": 6639,
+    "timeWeek": 5582,
+    "timeMonth": 4772,
+    "timeYear": 3683,
     "dailyMinutesDown": {
       "2023-07-29": 23,
       "2023-06-13": 391,
@@ -210,8 +208,7 @@
       "2022-12-13": 19,
       "2022-11-27": 46,
       "2022-11-26": 2,
-      "2022-11-20": 16,
-      "2022-10-28": 44
+      "2022-11-20": 16
     }
   },
   {
@@ -221,17 +218,16 @@
     "slug": "argenchemical-srl",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.62%",
-    "time": 2087,
-    "timeDay": 4135,
-    "timeWeek": 4478,
-    "timeMonth": 3502,
-    "timeYear": 2210,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.63%",
+    "time": 2088,
+    "timeDay": 1829,
+    "timeWeek": 3093,
+    "timeMonth": 3500,
+    "timeYear": 2202,
     "dailyMinutesDown": {
-      "2023-10-27": 6,
       "2023-10-22": 18,
       "2023-10-20": 108,
       "2023-08-31": 38,
