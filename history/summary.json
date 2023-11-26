@@ -11,9 +11,9 @@
     "uptimeMonth": "87.40%",
     "uptimeYear": "98.63%",
     "time": 1348,
-    "timeDay": 713,
-    "timeWeek": 877,
-    "timeMonth": 931,
+    "timeDay": 760,
+    "timeWeek": 833,
+    "timeMonth": 921,
     "timeYear": 1447,
     "dailyMinutesDown": {
       "2023-11-09": 35,
@@ -34,8 +34,7 @@
       "2022-12-13": 59,
       "2022-12-12": 19,
       "2022-12-11": 41,
-      "2022-11-27": 46,
-      "2022-11-26": 3
+      "2022-11-27": 46
     }
   },
   {
@@ -44,18 +43,19 @@
     "icon": "https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png",
     "slug": "adolfo-ortiz-cubas",
     "status": "down",
-    "uptime": "92.58%",
+    "uptime": "92.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.90%",
-    "uptimeYear": "87.04%",
-    "time": 5217,
+    "uptimeMonth": "28.60%",
+    "uptimeYear": "86.76%",
+    "time": 5219,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 6067,
-    "timeYear": 5130,
+    "timeMonth": 6056,
+    "timeYear": 5133,
     "dailyMinutesDown": {
-      "2023-11-25": 58,
+      "2023-11-26": 64,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -134,8 +134,7 @@
       "2022-12-28": 68,
       "2022-12-13": 20,
       "2022-12-11": 45,
-      "2022-11-27": 46,
-      "2022-11-26": 3
+      "2022-11-27": 46
     }
   },
   {
@@ -149,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "98.52%",
-    "time": 2129,
-    "timeDay": 1493,
-    "timeWeek": 1836,
-    "timeMonth": 2388,
-    "timeYear": 2394,
+    "time": 2131,
+    "timeDay": 1821,
+    "timeWeek": 1688,
+    "timeMonth": 2293,
+    "timeYear": 2395,
     "dailyMinutesDown": {
       "2023-11-06": 233,
       "2023-11-04": 427,
@@ -181,8 +180,7 @@
       "2023-01-03": 17,
       "2023-01-02": 32,
       "2022-12-13": 20,
-      "2022-11-27": 46,
-      "2022-11-26": 2
+      "2022-11-27": 46
     }
   },
   {
@@ -191,16 +189,16 @@
     "icon": "https://www.distribuidorarn.com.ar/wp-content/uploads/2022/01/cropped-cropped-cropped-LOGO_BW-32x32.png",
     "slug": "distribuidora-rn",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "98.51%",
     "time": 3584,
-    "timeDay": 2299,
-    "timeWeek": 2552,
-    "timeMonth": 3079,
-    "timeYear": 3622,
+    "timeDay": 2781,
+    "timeWeek": 2596,
+    "timeMonth": 3091,
+    "timeYear": 3621,
     "dailyMinutesDown": {
       "2023-11-06": 228,
       "2023-11-04": 424,
@@ -228,8 +226,7 @@
       "2023-01-18": 211,
       "2023-01-02": 32,
       "2022-12-13": 19,
-      "2022-11-27": 46,
-      "2022-11-26": 2
+      "2022-11-27": 46
     }
   },
   {
@@ -243,11 +240,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.55%",
-    "time": 2047,
-    "timeDay": 1457,
-    "timeWeek": 1684,
-    "timeMonth": 2087,
-    "timeYear": 2206,
+    "time": 2048,
+    "timeDay": 1749,
+    "timeWeek": 1689,
+    "timeMonth": 2082,
+    "timeYear": 2199,
     "dailyMinutesDown": {
       "2023-11-14": 35,
       "2023-11-12": 15,
