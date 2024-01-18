@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.66%",
-    "time": 1229,
-    "timeDay": 583,
-    "timeWeek": 729,
-    "timeMonth": 769,
+    "time": 1228,
+    "timeDay": 673,
+    "timeWeek": 649,
+    "timeMonth": 761,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2023-11-09": 35,
@@ -39,18 +39,19 @@
     "icon": "https://adolfoortizcubasfabricademuebles.com.ar/wp-content/uploads/2021/02/cropped-favicon-1-32x32.png",
     "slug": "adolfo-ortiz-cubas",
     "status": "down",
-    "uptime": "85.71%",
+    "uptime": "85.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.56%",
-    "time": 5232,
+    "uptimeYear": "72.28%",
+    "time": 5236,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5147,
+    "timeYear": 5151,
     "dailyMinutesDown": {
-      "2024-01-17": 62,
+      "2024-01-18": 61,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -176,8 +177,7 @@
       "2023-01-27": 229,
       "2023-01-25": 17,
       "2023-01-23": 401,
-      "2023-01-20": 16,
-      "2023-01-18": 211
+      "2023-01-20": 16
     }
   },
   {
@@ -186,16 +186,16 @@
     "icon": "https://www.metalurgicamiele.com.ar/favicon.ico",
     "slug": "metalurgica-miele",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
-    "time": 2171,
-    "timeDay": 1458,
-    "timeWeek": 1694,
-    "timeMonth": 1897,
-    "timeYear": 2461,
+    "time": 2173,
+    "timeDay": 1424,
+    "timeWeek": 1622,
+    "timeMonth": 1878,
+    "timeYear": 2460,
     "dailyMinutesDown": {
       "2023-11-06": 233,
       "2023-11-04": 427,
@@ -218,8 +218,7 @@
       "2023-01-30": 64,
       "2023-01-29": 84,
       "2023-01-27": 229,
-      "2023-01-23": 401,
-      "2023-01-18": 211
+      "2023-01-23": 401
     }
   },
   {
@@ -233,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.53%",
-    "time": 3477,
-    "timeDay": 1960,
-    "timeWeek": 2158,
-    "timeMonth": 2151,
-    "timeYear": 3463,
+    "time": 3476,
+    "timeDay": 2290,
+    "timeWeek": 2106,
+    "timeMonth": 2150,
+    "timeYear": 3459,
     "dailyMinutesDown": {
       "2023-11-06": 228,
       "2023-11-04": 424,
@@ -261,8 +260,7 @@
       "2023-01-30": 64,
       "2023-01-29": 84,
       "2023-01-27": 229,
-      "2023-01-23": 401,
-      "2023-01-18": 211
+      "2023-01-23": 401
     }
   },
   {
@@ -276,11 +274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.54%",
-    "time": 2133,
-    "timeDay": 3677,
-    "timeWeek": 1696,
-    "timeMonth": 1746,
-    "timeYear": 2193,
+    "time": 2131,
+    "timeDay": 1711,
+    "timeWeek": 1675,
+    "timeMonth": 1747,
+    "timeYear": 2192,
     "dailyMinutesDown": {
       "2023-12-27": 64,
       "2023-11-14": 35,
