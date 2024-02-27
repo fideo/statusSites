@@ -1,7 +1,7 @@
 url: https://www.argenchemical.com.ar
-status: up
-code: 200
-responseTime: 1429
-lastUpdated: 2024-02-26T23:07:03.966Z
+status: down
+code: 502
+responseTime: 834
+lastUpdated: 2024-02-27T09:31:14.793Z
 startTime: 2022-02-01T15:55:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
