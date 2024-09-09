@@ -15,6 +15,18 @@ sites:
   - name: Argenchemical SRL
     url: https://www.argenchemical.com.ar
     icon: https://www.argenchemical.com.ar/favicon.ico
+  - name: ClanSamurai
+    url: https://www.clansamuraiargentino.com.ar
+    icon: https://www.clansamuraiargentino.com.ar/imagenes/Sasa_Rindo.svg
+  - name: PartsSistemas
+    url: https://partssistemas.com.ar
+    icon: https://partssistemas.com.ar/wp-content/uploads/2024/09/icon_partssistemas.png
+  - name: ItalGroup SA
+    url: https://italgroupsa.com.ar
+    icon: https://italgroupsa.com.ar/wp-content/uploads/2024/06/icono-logo-Italgroup-100x100.webp
+  - name: IgTrailers
+    url: https://igtrailers.com.ar
+    icon: https://igtrailers.com.ar/wp-content/uploads/2016/09/cropped-ico-150x150.png
 
 assignees:
   - fideo
