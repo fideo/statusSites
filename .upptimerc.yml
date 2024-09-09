@@ -47,6 +47,8 @@ status-website:
       href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Sitio Fideo
+      href: https://federicomazzei.com.ar
   theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
