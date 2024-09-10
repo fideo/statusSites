@@ -39,9 +39,9 @@ status-website:
   logoUrl: https://www.federicomazzei.com.ar/blog/wp-content/uploads/2024/09/estado.png
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Sitios Fideo
-  introTitle: "**Status Sitios Fideo** es un página que muestra los estados de los sitios listados, powered entirely by GitHub."
+  introTitle: "**Status Sitios Fideo**"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  introMessage: Esto puede configurarse usando [GitHub repository](https://github.com/upptime/upptime). No se necesita server, solo GitHub Actions, Issues y Pages.
+  #introMessage: Esto puede configurarse usando [GitHub repository](https://github.com/upptime/upptime). No se necesita server, solo GitHub Actions, Issues y Pages.
   navbar:
     - title: Status Sitios Fideo
       href: /$REPO
@@ -49,7 +49,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Sitio Fideo
       href: https://federicomazzei.com.ar
-  theme: ocean
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
