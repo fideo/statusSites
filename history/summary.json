@@ -77,11 +77,11 @@
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
     "status": "up",
-    "uptime": "81.51%",
+    "uptime": "82.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.76%",
+    "uptimeYear": "94.94%",
     "time": 2185,
     "timeDay": 1742,
     "timeWeek": 2002,
@@ -141,10 +141,10 @@
     "url": "https://italgroupsa.com.ar",
     "icon": "https://italgroupsa.com.ar/wp-content/uploads/2024/06/icono-logo-Italgroup-100x100.webp",
     "slug": "ital-group-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 464,
@@ -153,6 +153,7 @@
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {
+      "2024-09-21": 1,
       "2024-09-19": 17
     }
   },
@@ -161,9 +162,9 @@
     "url": "https://igtrailers.com.ar",
     "icon": "https://igtrailers.com.ar/wp-content/uploads/2016/09/cropped-ico-150x150.png",
     "slug": "ig-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -173,6 +174,7 @@
     "timeMonth": 1599,
     "timeYear": 1599,
     "dailyMinutesDown": {
+      "2024-09-21": 0,
       "2024-09-19": 16
     }
   }
