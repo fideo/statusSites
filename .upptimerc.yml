@@ -15,9 +15,6 @@ sites:
   - name: Argenchemical SRL
     url: https://www.argenchemical.com.ar
     icon: https://www.argenchemical.com.ar/favicon.ico
-  - name: ClanSamurai
-    url: https://www.clansamuraiargentino.com.ar
-    icon: https://www.clansamuraiargentino.com.ar/imagenes/Sasa_Rindo.svg
   - name: PartsSistemas
     url: https://partssistemas.com.ar
     icon: https://partssistemas.com.ar/wp-content/uploads/2024/09/icon_partssistemas.png
