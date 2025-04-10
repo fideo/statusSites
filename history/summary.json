@@ -58,9 +58,9 @@
     "url": "https://www.distribuidorarn.com.ar",
     "icon": "https://www.distribuidorarn.com.ar/wp-content/uploads/2022/01/cropped-cropped-cropped-LOGO_BW-32x32.png",
     "slug": "distribuidora-rn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
@@ -70,6 +70,7 @@
     "timeMonth": 2006,
     "timeYear": 2012,
     "dailyMinutesDown": {
+      "2025-04-10": 0,
       "2025-02-18": 15,
       "2025-02-06": 956,
       "2025-02-05": 648,
@@ -92,7 +93,7 @@
     "time": 1972,
     "timeDay": 1709,
     "timeWeek": 1737,
-    "timeMonth": 2278,
+    "timeMonth": 2154,
     "timeYear": 1993,
     "dailyMinutesDown": {
       "2025-04-08": 41,
@@ -137,7 +138,7 @@
     "time": 498,
     "timeDay": 318,
     "timeWeek": 461,
-    "timeMonth": 388,
+    "timeMonth": 390,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2025-04-06": 28,
@@ -183,7 +184,7 @@
     "time": 1495,
     "timeDay": 1798,
     "timeWeek": 1592,
-    "timeMonth": 1449,
+    "timeMonth": 1458,
     "timeYear": 1495,
     "dailyMinutesDown": {
       "2025-04-10": 22,
