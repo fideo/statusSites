@@ -68,7 +68,7 @@
     "uptimeYear": "99.30%",
     "time": 2192,
     "timeDay": 3545,
-    "timeWeek": 2849,
+    "timeWeek": 2824,
     "timeMonth": 2245,
     "timeYear": 2035,
     "dailyMinutesDown": {
@@ -184,9 +184,9 @@
     "url": "https://igtrailers.com.ar",
     "icon": "https://igtrailers.com.ar/wp-content/uploads/2016/09/cropped-ico-150x150.png",
     "slug": "ig-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.75%",
@@ -196,6 +196,7 @@
     "timeMonth": 1512,
     "timeYear": 1495,
     "dailyMinutesDown": {
+      "2025-05-15": 0,
       "2025-05-13": 55,
       "2025-05-12": 3,
       "2025-05-07": 16,
