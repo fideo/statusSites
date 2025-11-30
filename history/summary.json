@@ -43,9 +43,9 @@
     "slug": "argenchemical-srl",
     "status": "up",
     "uptime": "96.42%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "94.27%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "94.30%",
     "uptimeYear": "96.15%",
     "time": 1753,
     "timeDay": 1223,
@@ -53,7 +53,7 @@
     "timeMonth": 1348,
     "timeYear": 1719,
     "dailyMinutesDown": {
-      "2025-11-30": 111,
+      "2025-11-30": 96,
       "2025-11-29": 27,
       "2025-11-27": 26,
       "2025-11-26": 15,
@@ -375,9 +375,9 @@
     "url": "https://italart-sa.com.ar",
     "icon": "https://italart-sa.com.ar/wp-content/uploads/2025/10/cropped-Iso-ityalart.png",
     "slug": "italart-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
@@ -387,6 +387,7 @@
     "timeMonth": 1438,
     "timeYear": 1438,
     "dailyMinutesDown": {
+      "2025-11-30": 0,
       "2025-11-18": 154
     }
   },
