@@ -385,9 +385,9 @@
     "url": "https://italart-sa.com.ar",
     "icon": "https://italart-sa.com.ar/wp-content/uploads/2025/10/cropped-Iso-ityalart.png",
     "slug": "italart-sa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.68%",
@@ -397,6 +397,7 @@
     "timeMonth": 1535,
     "timeYear": 1529,
     "dailyMinutesDown": {
+      "2025-12-14": 0,
       "2025-11-18": 154
     }
   },
