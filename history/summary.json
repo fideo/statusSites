@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.50%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.36%",
     "time": 1409,
     "timeDay": 1283,
-    "timeWeek": 1359,
+    "timeWeek": 1301,
     "timeMonth": 1322,
     "timeYear": 1565,
     "dailyMinutesDown": {
@@ -30,8 +30,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 1440
+      "2024-12-24": 1440
     }
   },
   {
@@ -40,18 +39,17 @@
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
     "status": "up",
-    "uptime": "96.72%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "97.99%",
+    "uptime": "96.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "96.03%",
     "time": 1689,
     "timeDay": 1123,
-    "timeWeek": 1227,
+    "timeWeek": 1212,
     "timeMonth": 1257,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2025-12-22": 1,
       "2025-12-19": 37,
       "2025-12-17": 51,
       "2025-12-15": 39,
@@ -133,7 +131,7 @@
     "uptimeYear": "89.97%",
     "time": 1813,
     "timeDay": 352,
-    "timeWeek": 354,
+    "timeWeek": 343,
     "timeMonth": 507,
     "timeYear": 1722,
     "dailyMinutesDown": {
@@ -189,14 +187,14 @@
     "icon": "https://partssistemas.com.ar/wp-content/uploads/2024/09/icon_partssistemas.png",
     "slug": "parts-sistemas",
     "status": "down",
-    "uptime": "86.43%",
+    "uptime": "86.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.56%",
     "time": 853,
     "timeDay": 202,
-    "timeWeek": 161,
+    "timeWeek": 155,
     "timeMonth": 185,
     "timeYear": 777,
     "dailyMinutesDown": {
@@ -335,7 +333,7 @@
     "uptimeYear": "99.81%",
     "time": 1494,
     "timeDay": 1201,
-    "timeWeek": 1616,
+    "timeWeek": 1548,
     "timeMonth": 1527,
     "timeYear": 1500,
     "dailyMinutesDown": {
@@ -374,8 +372,7 @@
       "2025-01-16": 28,
       "2025-01-08": 20,
       "2025-01-06": 17,
-      "2025-01-03": 23,
-      "2024-12-23": 19
+      "2025-01-03": 23
     }
   },
   {
@@ -391,7 +388,7 @@
     "uptimeYear": "99.74%",
     "time": 1572,
     "timeDay": 1358,
-    "timeWeek": 1840,
+    "timeWeek": 1894,
     "timeMonth": 1664,
     "timeYear": 1572,
     "dailyMinutesDown": {
@@ -411,7 +408,7 @@
     "uptimeYear": "98.68%",
     "time": 1518,
     "timeDay": 1268,
-    "timeWeek": 1505,
+    "timeWeek": 1464,
     "timeMonth": 1550,
     "timeYear": 1518,
     "dailyMinutesDown": {
