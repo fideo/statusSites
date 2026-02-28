@@ -31,16 +31,16 @@
     "url": "https://www.argenchemical.com.ar",
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "96.20%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "96.33%",
     "uptimeMonth": "96.14%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 1635,
-    "timeDay": 1428,
-    "timeWeek": 1623,
-    "timeMonth": 1642,
+    "timeDay": 1368,
+    "timeWeek": 1621,
+    "timeMonth": 1638,
     "timeYear": 1577,
     "dailyMinutesDown": {
       "2026-02-28": 25,
@@ -96,8 +96,7 @@
       "2025-11-30": 96,
       "2025-11-29": 27,
       "2025-11-27": 26,
-      "2025-11-26": 15,
-      "2025-11-25": 15
+      "2025-11-26": 15
     }
   },
   {
@@ -374,7 +373,7 @@
     "timeMonth": 0,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2026-02-28": 642,
+      "2026-02-28": 661,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
