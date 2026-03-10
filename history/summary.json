@@ -13,7 +13,7 @@
     "time": 1556,
     "timeDay": 1835,
     "timeWeek": 1461,
-    "timeMonth": 2240,
+    "timeMonth": 2255,
     "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-02-03": 51,
@@ -33,17 +33,17 @@
     "slug": "argenchemical-srl",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "95.74%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "95.75%",
     "uptimeYear": "99.36%",
     "time": 1623,
     "timeDay": 1393,
     "timeWeek": 1586,
-    "timeMonth": 1616,
+    "timeMonth": 1612,
     "timeYear": 1577,
     "dailyMinutesDown": {
-      "2026-03-09": 63,
+      "2026-03-09": 58,
       "2026-03-08": 86,
       "2026-03-07": 37,
       "2026-03-06": 101,
@@ -96,7 +96,7 @@
       "2025-12-08": 43,
       "2025-12-07": 57,
       "2025-12-05": 37,
-      "2025-12-04": 21
+      "2025-12-04": 38
     }
   },
   {
@@ -113,7 +113,7 @@
     "time": 1517,
     "timeDay": 423,
     "timeWeek": 431,
-    "timeMonth": 430,
+    "timeMonth": 429,
     "timeYear": 1390,
     "dailyMinutesDown": {
       "2025-10-13": 1228,
@@ -173,7 +173,7 @@
     "time": 726,
     "timeDay": 209,
     "timeWeek": 213,
-    "timeMonth": 218,
+    "timeMonth": 217,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-10-13": 1228,
@@ -258,7 +258,7 @@
     "time": 484,
     "timeDay": 737,
     "timeWeek": 673,
-    "timeMonth": 700,
+    "timeMonth": 704,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2026-02-14": 30,
@@ -302,7 +302,7 @@
     "time": 1422,
     "timeDay": 711,
     "timeWeek": 497,
-    "timeMonth": 539,
+    "timeMonth": 535,
     "timeYear": 1388,
     "dailyMinutesDown": {
       "2026-02-14": 29,
@@ -347,7 +347,7 @@
     "time": 1612,
     "timeDay": 1398,
     "timeWeek": 1357,
-    "timeMonth": 1442,
+    "timeMonth": 1438,
     "timeYear": 1612,
     "dailyMinutesDown": {
       "2026-01-27": 387,
@@ -360,18 +360,19 @@
     "icon": "https://preverhse.com.ar/wp-content/uploads/2022/08/favicon-phse32.jpg",
     "slug": "preverhse",
     "status": "down",
-    "uptime": "46.20%",
+    "uptime": "46.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "46.20%",
+    "uptimeYear": "46.17%",
     "time": 1541,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2026-03-09": 1403,
+      "2026-03-10": 87,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
