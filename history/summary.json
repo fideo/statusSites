@@ -31,9 +31,9 @@
     "url": "https://www.argenchemical.com.ar",
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "84.03%",
+    "uptimeDay": "84.01%",
     "uptimeWeek": "91.13%",
     "uptimeMonth": "93.26%",
     "uptimeYear": "98.98%",
@@ -88,8 +88,7 @@
       "2026-02-18": 195,
       "2026-02-17": 44,
       "2026-02-16": 157,
-      "2026-02-15": 118,
-      "2026-02-14": 24
+      "2026-02-15": 118
     }
   },
   {
@@ -342,18 +341,18 @@
     "icon": "https://preverhse.com.ar/wp-content/uploads/2022/08/favicon-phse32.jpg",
     "slug": "preverhse",
     "status": "down",
-    "uptime": "32.65%",
+    "uptime": "32.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.65%",
+    "uptimeYear": "32.56%",
     "time": 1541,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2026-04-28": 149,
+      "2026-04-28": 781,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
