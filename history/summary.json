@@ -12,7 +12,7 @@
     "uptimeYear": "99.45%",
     "time": 1589,
     "timeDay": 1760,
-    "timeWeek": 1459,
+    "timeWeek": 1481,
     "timeMonth": 1435,
     "timeYear": 1596,
     "dailyMinutesDown": {
@@ -31,17 +31,17 @@
     "url": "https://www.argenchemical.com.ar",
     "icon": "https://www.argenchemical.com.ar/favicon.ico",
     "slug": "argenchemical-srl",
-    "status": "down",
+    "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "84.65%",
-    "uptimeWeek": "78.44%",
-    "uptimeMonth": "80.93%",
+    "uptimeDay": "83.63%",
+    "uptimeWeek": "78.29%",
+    "uptimeMonth": "80.89%",
     "uptimeYear": "97.58%",
-    "time": 1596,
-    "timeDay": 1128,
-    "timeWeek": 1328,
-    "timeMonth": 1408,
-    "timeYear": 1528,
+    "time": 1595,
+    "timeDay": 1243,
+    "timeWeek": 1313,
+    "timeMonth": 1412,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2026-03-21": 21,
       "2026-03-24": 72,
@@ -99,7 +99,7 @@
       "2026-06-23": 675,
       "2026-06-24": 438,
       "2026-06-25": 221,
-      "2026-06-26": 1
+      "2026-06-26": 15
     }
   },
   {
@@ -115,7 +115,7 @@
     "uptimeYear": "90.30%",
     "time": 1290,
     "timeDay": 1875,
-    "timeWeek": 1536,
+    "timeWeek": 1549,
     "timeMonth": 1645,
     "timeYear": 1003,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
     "uptimeYear": "82.88%",
     "time": 619,
     "timeDay": 1036,
-    "timeWeek": 1004,
+    "timeWeek": 1038,
     "timeMonth": 1098,
     "timeYear": 438,
     "dailyMinutesDown": {
@@ -258,7 +258,7 @@
     "uptimeYear": "99.94%",
     "time": 555,
     "timeDay": 216,
-    "timeWeek": 285,
+    "timeWeek": 299,
     "timeMonth": 587,
     "timeYear": 562,
     "dailyMinutesDown": {
@@ -287,7 +287,7 @@
     "uptimeYear": "99.94%",
     "time": 1226,
     "timeDay": 240,
-    "timeWeek": 297,
+    "timeWeek": 312,
     "timeMonth": 615,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -317,7 +317,7 @@
     "uptimeYear": "99.83%",
     "time": 1577,
     "timeDay": 1449,
-    "timeWeek": 1469,
+    "timeWeek": 1517,
     "timeMonth": 1591,
     "timeYear": 1577,
     "dailyMinutesDown": {
@@ -346,7 +346,7 @@
       "2025-12-12": 101,
       "2025-12-11": 541,
       "2025-12-22": 21,
-      "2026-06-26": 4,
+      "2026-06-26": 20,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
