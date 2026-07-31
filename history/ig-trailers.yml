@@ -1,7 +1,7 @@
 url: https://igtrailers.com.ar
-status: up
-code: 202
-responseTime: 235
-lastUpdated: 2026-07-31T01:08:48.518Z
+status: down
+code: 429
+responseTime: 403
+lastUpdated: 2026-07-31T07:25:06.928Z
 startTime: 2024-09-09T15:50:16.024Z
 generator: Upptime <https://github.com/upptime/upptime>
