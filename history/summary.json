@@ -13,7 +13,7 @@
     "time": 1596,
     "timeDay": 1958,
     "timeWeek": 1551,
-    "timeMonth": 1470,
+    "timeMonth": 1460,
     "timeYear": 1516,
     "dailyMinutesDown": {
       "2025-11-18": 214,
@@ -37,7 +37,7 @@
     "time": 1582,
     "timeDay": 2321,
     "timeWeek": 2164,
-    "timeMonth": 2056,
+    "timeMonth": 2041,
     "timeYear": 1547,
     "dailyMinutesDown": {
       "2026-04-09": 44,
@@ -112,7 +112,7 @@
     "time": 1246,
     "timeDay": 2799,
     "timeWeek": 1922,
-    "timeMonth": 1617,
+    "timeMonth": 1609,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2025-09-22": 1283,
@@ -167,7 +167,7 @@
     "time": 615,
     "timeDay": 1076,
     "timeWeek": 983,
-    "timeMonth": 967,
+    "timeMonth": 965,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2025-10-13": 1228,
@@ -226,16 +226,16 @@
     "url": "https://italgroupsa.com.ar",
     "icon": "https://italgroupsa.com.ar/wp-content/uploads/2024/06/icono-logo-Italgroup-100x100.webp",
     "slug": "ital-group-sa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "96.45%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "99.65%",
     "time": 651,
-    "timeDay": 5018,
-    "timeWeek": 5642,
-    "timeMonth": 1431,
+    "timeDay": 3495,
+    "timeWeek": 5065,
+    "timeMonth": 1435,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2025-09-25": 17,
@@ -250,7 +250,7 @@
       "2026-07-31": 588,
       "2026-08-01": 931,
       "2026-08-09": 16,
-      "2026-08-25": 22
+      "2026-08-25": 29
     }
   },
   {
@@ -258,17 +258,17 @@
     "url": "https://igtrailers.com.ar",
     "icon": "https://igtrailers.com.ar/wp-content/uploads/2016/09/cropped-ico-150x150.png",
     "slug": "ig-trailers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "99.61%",
-    "time": 1121,
-    "timeDay": 414,
-    "timeWeek": 535,
-    "timeMonth": 836,
-    "timeYear": 934,
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "99.60%",
+    "time": 1119,
+    "timeDay": 466,
+    "timeWeek": 539,
+    "timeMonth": 843,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2025-09-25": 16,
       "2025-10-13": 31,
@@ -283,7 +283,7 @@
       "2026-07-31": 492,
       "2026-08-04": 529,
       "2026-08-24": 19,
-      "2026-08-25": 1
+      "2026-08-25": 8
     }
   },
   {
@@ -300,7 +300,7 @@
     "time": 1568,
     "timeDay": 1573,
     "timeWeek": 1404,
-    "timeMonth": 1615,
+    "timeMonth": 1620,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2025-11-18": 154,
@@ -328,7 +328,7 @@
       "2025-12-12": 101,
       "2025-12-11": 541,
       "2025-12-22": 21,
-      "2026-08-25": 1425,
+      "2026-08-25": 1433,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
